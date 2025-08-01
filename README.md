@@ -45,13 +45,14 @@
 </h2>
 
 <ul>
-  <li>TypeCraft - AI text generator</li>
-  <li>Typo - A typing game</li>
-  <li>UrbanFold - A Clothing brand website</li>
-  <li>Nike Shoe Store - Online shoe store of Nike</li>
-  <li>Auth App- An User authentication app </li>
-  <li>Portfolio- My personal Portfolio</li>
-  <li>ChatCord - Multi user chat rooms</li>
+  <li>TypeCraft - AI text generator - https://github.com/Sundaram-Katare/AI-Content-Generator</li>
+  <li>Trailer Binge - Movies Trailer Streaming App - https://github.com/Sundaram-Katare/Movie-Trailer</li>
+  <li> BiteBase - Food Ordering System API - https://github.com/Sundaram-Katare/Online-Food</li>
+  <li>Typo - A typing game - https://github.com/Sundaram-Katare/Typo</li>
+  <li>UrbanFold - A Clothing brand website - https://github.com/Sundaram-Katare/UrbanFoldFrontend</li>
+  <li>Nike Shoe Store - Online shoe store of Nike - https://github.com/Sundaram-Katare/Nike-Shoe-Store</li>
+  <li>Portfolio- My personal Portfolio - https://github.com/Sundaram-Katare/Portfolio-2.0</li>
+  <li>ChatCord - Multi user chat rooms - https://github.com/Sundaram-Katare/chatCord</li>
 </ul>
 
 <br />
