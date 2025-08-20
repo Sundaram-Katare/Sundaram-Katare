@@ -1,78 +1,67 @@
 <h1 align="center">
-  <strong font-size="25px">Hey 👋, I'm Sundaram Katare!</strong>
+  Hey 👋, I'm Sundaram Katare!  
 </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Problem+Solver+%26+DSA+Learner" alt="Typing SVG" />
+</p>
 
-<br>
-<br>
+---
 
-<h2>
-  🧑‍💻 About Me
-</h2>
+## 🛠️ Tech Stack  
 
+### 👨‍💻 Languages  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![SQL](https://img.shields.io/badge/-SQL-363636?style=for-the-badge&logo=sql&logoColor=white)  
+![Typescript](https://img.shields.io/badge/-Typescript-00599C?style=for-the-badge&logo=typescript&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 
-<ul>
-  <li>Currently working on improving my skills in Full-stack Development</li>
-  <li>I enjoys creating clean, responsive UIs with React & Tailwind and scalable APIs with Node.js and Express</li>
-  <li>I work on side projects, contribute to open source, and continuously learn new tools and frameworks.</li>
-  <li>Exploring DevOps</li>
-</ul>  
+### ⚡ Frameworks & Libraries  
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![Next.js](https://img.shields.io/badge/-Next.js-F16822?style=for-the-badge&logo=nextdotjs&logoColor=white)  
 
+---
 
-<h2>
-  🛠️ Tools & Technologies
-</h2>
+## 🚀 Featured Projects  
 
-<ul>
-  <img src="https://www.svgrepo.com/show/373705/js-official.svg" style="height:70px; margin-right:20px;" />
-  <img src="https://www.svgrepo.com/show/452092/react.svg" style="height:70px; margin-right:20px;" />
-  <img src="https://www.svgrepo.com/show/376337/node-js.svg" style="height:70px; margin-right:20px;" />
-  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" style="height:70px; margin-right:20px;" />
-  <img src="https://www.svgrepo.com/show/448221/docker.svg" style="height:70px; margin-right:20px;" />
-  <img src="https://www.svgrepo.com/show/354090/mongodb.svg" style="height:70px; margin-right:20px;" />
-  <img src="https://www.svgrepo.com/show/452228/html-5.svg" style="height:70px; margin-right:20px;" />
-  <img src="https://www.svgrepo.com/show/452185/css-3.svg" style="height:70px; margin-right:20px;" />
-  <img src="https://www.svgrepo.com/show/354200/postgresql.svg" style="height:70px; margin-right:20px;" />
-  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" style="height:70px; margin-right:20px;" />
-  <img src="https://www.svgrepo.com/show/452234/java.svg" style="height:70px; margin-right:20px;" />
-</ul>
+📌 *(6 highlighted projects with links)*  
 
+- 🔹 [**TypeCraft**](https://github.com/Sundaram-Katare/AI-Content-Generator) – AI text generator 📝  
+- 🔹 [**Trailer Bingo**](https://github.com/Sundaram-Katare/Movies-Trailer) – Movie/Tv streaming app 🎬  
+- 🔹 [**BiteBase**](https://github.com/Sundaram-Katare/Online-Food) – Food Ordering System 🍔  
+- 🔹 [**Typo**](https://github.com/Sundaram-Katare/Type) – Typing Game ⌨️  
+- 🔹 [**UrbanShoes**](https://github.com/Sundaram-Katare/UrbanFitFrontend) – Clothing Brand Website 👟  
+- 🔹 [**ChatCord**](https://github.com/Sundaram-Katare/ChatCord) – Multi-user chat rooms 💬  
 
-<br>
-<br>
+---
 
-<h2>
-  🚀 Projects
-</h2>
+## 📊 GitHub Stats & Contributions  
 
-<ul>
-  <li>TypeCraft - AI text generator - https://github.com/Sundaram-Katare/AI-Content-Generator</li>
-  <li>Trailer Binge - Movies Trailer Streaming App - https://github.com/Sundaram-Katare/Movie-Trailer</li>
-  <li> BiteBase - Food Ordering System API - https://github.com/Sundaram-Katare/Online-Food</li>
-  <li>Typo - A typing game - https://github.com/Sundaram-Katare/Typo</li>
-  <li>UrbanFold - A Clothing brand website - https://github.com/Sundaram-Katare/UrbanFoldFrontend</li>
-  <li>Nike Shoe Store - Online shoe store of Nike - https://github.com/Sundaram-Katare/Nike-Shoe-Store</li>
-  <li>Portfolio- My personal Portfolio - https://github.com/Sundaram-Katare/Portfolio-2.0</li>
-  <li>ChatCord - Multi user chat rooms - https://github.com/Sundaram-Katare/chatCord</li>
-</ul>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sundaram-Katare&layout=compact&theme=radical" height="170"/>
+</p>
 
-<br />
-<br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sundaram-Katare&theme=radical" height="180"/>
+</p>
 
-<h2>📊DSA Stats </h2>
-<br><br />
+---
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/SundaramKatare?theme=light&font=Livvic&ext=heatmap)
+## 🧩 DSA Stats  
 
-<br />
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/SundaramKatare?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
-<h2>📞 Get In Touch</h2>
-<br />
+---
 
-<ul>
-  <li>Email: <a href="sundaramkatare53@gmail.com">sundaramkatare53@gmail.com</a> </li>
-  <li>GitHub: <a href="https://github.com/Sundaram-Katare">Sundaram-Katare</a> </li>
-  <li>X: <a href="https://x.com/sundaramkatare">sundaramkatare</a> </li>
-  <li>Linkedin: <a href="https://www.linkedin.com/in/sundaram-katare5/">sundaram-katare5</a> </li>
+## 📫 Connect with Me  
 
+- 📧 Email: **sundaramkatare13@gmail.com**  
+- 🌐 Portfolio: [My Portfolio](https://github.com/Sundaram-Katare/Portfolio)  
+- 💼 LinkedIn: [Sundaram Katare](https://www.linkedin.com/in/sundaram-katare)  
+- 🐦 Twitter: [@sundaram_katare](https://twitter.com/sundaram_katare)  
 
-</ul>
+---
+⭐ From [Sundaram-Katare](https://github.com/Sundaram-Katare)
