@@ -27,12 +27,12 @@
 
 📌 *(6 highlighted projects with links)*  
 
-- 🔹 [**TypeCraft**](https://github.com/Sundaram-Katare/AI-Content-Generator) – AI text generator 📝  
-- 🔹 [**Trailer Bingo**](https://github.com/Sundaram-Katare/Movies-Trailer) – Movie/Tv streaming app 🎬  
-- 🔹 [**BiteBase**](https://github.com/Sundaram-Katare/Online-Food) – Food Ordering System 🍔  
-- 🔹 [**Typo**](https://github.com/Sundaram-Katare/Type) – Typing Game ⌨️  
-- 🔹 [**UrbanShoes**](https://github.com/Sundaram-Katare/UrbanFitFrontend) – Clothing Brand Website 👟  
-- 🔹 [**ChatCord**](https://github.com/Sundaram-Katare/ChatCord) – Multi-user chat rooms 💬  
+ 🔹 [**Learnzo**](https://github.com/Sundaram-Katare/Learnzo) – E-learning Platform📝  
+ 🔹 [**Trailer Bingo**](https://github.com/Sundaram-Katare/Movies-Trailer) – Movie/Tv streaming app 🎬  
+ 🔹 [**PlatePilot**](https://github.com/Sundaram-Katare/Plate-Pilot) – Food Ordering System 🍔  
+ 🔹 [**Typo**](https://github.com/Sundaram-Katare/Type) – Typing Game ⌨️  
+ 🔹 [**SafeLinkrr**](https://github.com/Sundaram-Katare/UrlShortener) – URL Shortener + Safety Check 🔗  
+ 🔹 [**ChatCord**](https://github.com/Sundaram-Katare/ChatCord) – Multi-user chat rooms 💬  
 
 ---
 
