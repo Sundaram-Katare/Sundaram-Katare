@@ -34,7 +34,8 @@
 ## 🚀 Featured Projects  
 
  🔹 [**Learnzo**](https://github.com/Sundaram-Katare/Learnzo) – E-learning Platform📝  
- 🔹 [**Trailer Bingo**](https://github.com/Sundaram-Katare/Movies-Trailer) – Movie/Tv streaming app 🎬  
+ 🔹 [**Trailer Bingo**](https://github.com/Sundaram-Katare/Trailer-Binge) – Movie/Tv streaming app 🎬  
+ 🔹 [**CLI Guru**](https://github.com/Sundaram-Katare/CLI-Guru) – AI Powered CLI helper  
  🔹 [**PlatePilot**](https://github.com/Sundaram-Katare/Plate-Pilot) – Food Ordering Backend System 🍔  
  🔹 [**Typo**](https://github.com/Sundaram-Katare/Type) – Typing Game ⌨️  
  🔹 [**SafeLinkrr**](https://github.com/Sundaram-Katare/UrlShortener) – URL Shortener + Safety Check 🔗  
