@@ -33,8 +33,6 @@
 
 ## 🚀 Featured Projects  
 
-📌 *(6 highlighted projects with links)*  
-
  🔹 [**Learnzo**](https://github.com/Sundaram-Katare/Learnzo) – E-learning Platform📝  
  🔹 [**Trailer Bingo**](https://github.com/Sundaram-Katare/Movies-Trailer) – Movie/Tv streaming app 🎬  
  🔹 [**PlatePilot**](https://github.com/Sundaram-Katare/Plate-Pilot) – Food Ordering Backend System 🍔  
