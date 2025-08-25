@@ -37,10 +37,12 @@
 
  🔹 [**Learnzo**](https://github.com/Sundaram-Katare/Learnzo) – E-learning Platform📝  
  🔹 [**Trailer Bingo**](https://github.com/Sundaram-Katare/Movies-Trailer) – Movie/Tv streaming app 🎬  
- 🔹 [**PlatePilot**](https://github.com/Sundaram-Katare/Plate-Pilot) – Food Ordering System 🍔  
+ 🔹 [**PlatePilot**](https://github.com/Sundaram-Katare/Plate-Pilot) – Food Ordering Backend System 🍔  
  🔹 [**Typo**](https://github.com/Sundaram-Katare/Type) – Typing Game ⌨️  
  🔹 [**SafeLinkrr**](https://github.com/Sundaram-Katare/UrlShortener) – URL Shortener + Safety Check 🔗  
  🔹 [**ChatCord**](https://github.com/Sundaram-Katare/ChatCord) – Multi-user chat rooms 💬  
+ 🔹 [**ZippyGrocers**](https://github.com/Sundaram-Katare/food-delivery) – Quick Commerce Site🛒  
+ 🔹 [**Nike Shoe Store**](https://github.com/Sundaram-Katare/Nike-Shoe-Store) – Nike Landing Page  
 
 ---
 
