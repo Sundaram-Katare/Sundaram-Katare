@@ -33,14 +33,14 @@
 
 ## 🚀 Featured Projects  
 
- 🔹 [**Learnzo**](https://github.com/Sundaram-Katare/Learnzo) – E-learning Platform📝  
- 🔹 [**Trailer Bingo**](https://github.com/Sundaram-Katare/Trailer-Binge) – Movie/Tv streaming app 🎬  
+ 🔹 [**Lumin**](https://github.com/Sundaram-Katare/Lumin) – Online Quiz Platform📝  
+ 🔹 [**BuzzNet**](https://github.com/Sundaram-Katare/BuzzNet) – Real-time chat platform with channels support 💬  
+ 🔹 [**Trailer Binge**](https://github.com/Sundaram-Katare/Trailer-Binge) – Movie/Tv streaming app 🎬  
  🔹 [**CLI Guru**](https://github.com/Sundaram-Katare/CLI-Guru) – AI Powered CLI helper  
  🔹 [**PlatePilot**](https://github.com/Sundaram-Katare/Plate-Pilot) – Food Ordering Backend System 🍔  
- 🔹 [**Typo**](https://github.com/Sundaram-Katare/Type) – Typing Game ⌨️  
+ 🔹 [**Liluxe**](https://github.com/Sundaram-Katare/Liluxe) – React Landing Page ⌨️  
  🔹 [**SafeLinkrr**](https://github.com/Sundaram-Katare/UrlShortener) – URL Shortener + Safety Check 🔗  
- 🔹 [**ChatCord**](https://github.com/Sundaram-Katare/ChatCord) – Multi-user chat rooms 💬  
- 🔹 [**ZippyGrocers**](https://github.com/Sundaram-Katare/food-delivery) – Quick Commerce Site🛒  
+ 🔹 [**Portfolio**](https://github.com/Sundaram-Katare/SundaramPortfolio) – My Personal Portfolio 🛒  
  🔹 [**Nike Shoe Store**](https://github.com/Sundaram-Katare/Nike-Shoe-Store) – Nike Landing Page  
 
 ---
