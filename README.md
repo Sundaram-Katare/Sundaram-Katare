@@ -28,21 +28,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
----
-
-## 🚀 Featured Projects  
-
- 🔹 [**Lumin**](https://github.com/Sundaram-Katare/Lumin) – Online Quiz Platform📝  
- 🔹 [**BuzzNet**](https://github.com/Sundaram-Katare/BuzzNet) – Real-time chat platform with channels support 💬  
- 🔹 [**Trailer Binge**](https://github.com/Sundaram-Katare/Trailer-Binge) – Movie/Tv streaming app 🎬  
- 🔹 [**CLI Guru**](https://github.com/Sundaram-Katare/CLI-Guru) – AI Powered CLI helper  
- 🔹 [**PlatePilot**](https://github.com/Sundaram-Katare/Plate-Pilot) – Food Ordering Backend System 🍔  
- 🔹 [**Liluxe**](https://github.com/Sundaram-Katare/Liluxe) – React Landing Page ⌨️  
- 🔹 [**SafeLinkrr**](https://github.com/Sundaram-Katare/UrlShortener) – URL Shortener + Safety Check 🔗  
- 🔹 [**Portfolio**](https://github.com/Sundaram-Katare/SundaramPortfolio) – My Personal Portfolio 🛒  
- 🔹 [**Nike Shoe Store**](https://github.com/Sundaram-Katare/Nike-Shoe-Store) – Nike Landing Page  
-
 ---
 
 ## 📊 GitHub Stats & Contributions  
