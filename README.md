@@ -53,7 +53,7 @@
 ## 📫 Connect with Me  
 
 - 📧 Email: **sundaramkatare13@gmail.com**  
-- 🌐 Portfolio: [My Portfolio](https://github.com/Sundaram-Katare/Portfolio)  
+- 🌐 Portfolio: [My Portfolio](https://portfolio005-six.vercel.app/)  
 - 💼 LinkedIn: [Sundaram Katare](https://www.linkedin.com/in/sundaram-katare)  
 - 🐦 Twitter: [@sundaram_katare](https://twitter.com/sundaram_katare)  
 
