@@ -30,16 +30,55 @@
 
 ---
 
-## Projects
+## 🚀 Projects
 
-- Stellar = https://github.com/Sundaram-Katare/stellar
-- Lumin = https://github.com/Sundaram-Katare/Lumin
-- Weave = https://github.com/Sundaram-Katare/Weave
+### 1. FlowSpace  
+**Description:**  
+A scalable real-time collaboration platform featuring channel-based chat, document creation, and Kanban task management. Supports 100+ concurrent users with low-latency communication and seamless workflow automation (chat → task conversion).  
 
-More...
+**GitHub:**  
+https://github.com/Sundaram-Katare/Flow_Space
 
 ---
-## 📊 GitHub Stats & Contributions  
+
+### 2. Weave  
+**Description:**  
+Weave is an AI-powered web application that generates professionally tailored cover letters using your resume + job description in seconds.
+It aligns your experience with job requirements, formats the letter cleanly, and provides a beautiful, responsive interface. 
+
+**GitHub:**  
+https://github.com/Sundaram-Katare/Weave
+
+---
+
+### 3. Snippify  
+**Description:**  
+Snippify is a full-stack developer tool that allows users to save, organize, and manage code snippets. It also provides AI-powered code explanations using the user’s own Gemini API key, ensuring privacy and flexibility.
+
+**GitHub:**  
+https://github.com/Sundaram-Katare/Snippify
+
+---
+
+### 4. Lumin 
+**Description:**  
+Lumin is a full-featured Quiz Application that allows users to play, create, and share quizzes in real-time.
+It’s built for learners and developers who love competition — test your skills, challenge friends, and climb the leaderboard!
+
+**GitHub:**  
+https://github.com/Sundaram-Katare/Lumin
+
+---
+
+### 5. BookHub  
+**Description:**  
+BookHub is an open source project with 7+ contributors. It is an e-commerce platform for the Books. Anyone can contribute to it.
+
+**GitHub:**  
+https://github.com/Sundaram-Katare/BookHub
+
+---
+## GitHub Stats & Contributions  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sundaram-Katare&layout=compact&theme=radical" height="170"/>
@@ -61,7 +100,7 @@ More...
 
 ## 📫 Connect with Me  
 
-- 📧 Email: **sundaramkatare13@gmail.com**  
+- 📧 Email: **sundaramkatare53@gmail.com**  
 - 🌐 Portfolio: [My Portfolio](https://portfolio005-six.vercel.app/)  
 - 💼 LinkedIn: [Sundaram Katare](https://www.linkedin.com/in/sundaram-katare)  
 - 🐦 Twitter: [@sundaram_katare](https://twitter.com/sundaram_katare)  
